@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suvinimayadunna" alt="suvinimayadunna" /></a> </p>
 
-- 🔭 I’m currently working on **Chat App**
+- 🔭 I’m currently working on **CelebrateSmart app**
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **.NET**
 
 - 💬 Ask me about **MERN**
 
